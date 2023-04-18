@@ -4,15 +4,16 @@ WebGL JSLIB intergration with the Near Javascript API (near-api-js)
 <p>&nbsp;</p>
 
 ## Features
-1) Example scene for near-api-js function calls
-2) Login to Near wallet
-3) Check login status
-4) Check account ID
-5) Check account balance
-6) Call a contract method
-7) Return a testnet Mintbase NFT
-8) Return a testnet MFG NFT
-9) Example scene for calling account info via a Near RPC API call
+
+    1) Example scene for near-api-js function calls
+    2) Login to Near wallet
+    3) Check login status
+    4) Check account ID
+    5) Check account balance
+    6) Call a contract method
+    7) Return a testnet Mintbase NFT
+    8) Return a testnet MFG NFT
+    9) Example scene for calling account info via a Near RPC API call
 
 <p>&nbsp;</p>
 
