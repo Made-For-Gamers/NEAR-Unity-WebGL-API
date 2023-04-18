@@ -49,7 +49,7 @@ WebGL JSLIB intergration with the Near Javascript API (near-api-js)
 ## Classes
 
 ### Near_API class 
-Class with a Near namespace that contains static methods that mainly calls JavaScript funtions in the JSLIB file (Plugin). Has static variables that stores the user account ID and login status.
+Class with a Near namespace that contains static methods that calls JavaScript funtions in the JSLIB file (Plugin). Has static variables that stores the user account ID and login status. The Index.html file holds the reference to the near-api-js API and connection configuration for each network.
 
 <p>&nbsp;</p>
 
