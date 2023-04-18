@@ -1,10 +1,10 @@
 # NEAR-Unity-WebGL-API
-WebGL JSLIB intergration with the NEAR JS API
+WebGL JSLIB intergration with the Near Javascript API (near-api-js)
 
 <p>&nbsp;</p>
 
 ## Features
-1) Example scene for near-apijs function calls
+1) Example scene for near-api-js function calls
 2) Login to Near wallet
 3) Check login status
 4) Check account ID
@@ -12,7 +12,7 @@ WebGL JSLIB intergration with the NEAR JS API
 6) Call a contract method
 7) Return a testnet Mintbase NFT
 8) Return a testnet MFG NFT
-9) Example scene for 
+9) Example scene for calling account info via a Near RPC API call
 
 <p>&nbsp;</p>
 
@@ -33,9 +33,8 @@ WebGL JSLIB intergration with the NEAR JS API
 	1) Register a Near wallet on Testnet and/or Mainnet
 	2) Fork this repo to your local machine, make sure LFS is also installed
 	3) Open local repo folder from Unity Hub
-	4) Unity will report that their are compile errors, click Ignore
-	5) File / Build Settings - Set platform to WebGL
-	6) Edit / Project Settings / Player / Resolution and Presentation - Select Near WebGL template
+	4) Unity will report that their are compile errors, click Ignore (step 5 will resolve this)
+	5) File / Build Settings - Set platform to WebGL	6) 
 	7) File / Build And Run - set your own build directory
 	8) When the WebGL application opens in your browser you will see a screen with the login button.
 	9) Select the relevant Near network testnet/mainnet from the dropdown and click the Login button
